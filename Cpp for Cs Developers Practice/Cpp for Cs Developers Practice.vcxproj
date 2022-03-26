@@ -142,6 +142,7 @@
     <ClCompile Include="CppForCsDevelopersPractice.cpp" />
     <ClCompile Include="Maths\math.cpp" />
     <ClCompile Include="Maths\vector.cpp" />
+    <ClCompile Include="User\user.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
