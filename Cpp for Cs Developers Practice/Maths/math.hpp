@@ -1,5 +1,5 @@
 #pragma once
 
-int Add(int a, int b);
+float Add(float a, float b);
 
 const float PI = 3.14f;

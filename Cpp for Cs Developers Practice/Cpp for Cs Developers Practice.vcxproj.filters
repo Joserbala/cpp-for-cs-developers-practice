@@ -21,12 +21,18 @@
     <ClCompile Include="Maths\math.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Maths\vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Maths\math.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Maths\vector.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

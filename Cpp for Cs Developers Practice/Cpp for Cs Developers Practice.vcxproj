@@ -141,12 +141,14 @@
   <ItemGroup>
     <ClCompile Include="CppForCsDevelopersPractice.cpp" />
     <ClCompile Include="Maths\math.cpp" />
+    <ClCompile Include="Maths\vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Maths\math.hpp" />
+    <ClInclude Include="Maths\vector.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
