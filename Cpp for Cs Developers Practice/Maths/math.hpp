@@ -1,7 +1,5 @@
 #pragma once
-class math
-{
-	int Add(int a, int b);
 
-	float PI = 3.14f;
-};
+int Add(int a, int b);
+
+const float PI = 3.14f;
