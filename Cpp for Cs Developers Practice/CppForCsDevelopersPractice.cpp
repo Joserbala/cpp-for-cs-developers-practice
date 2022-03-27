@@ -1,8 +1,8 @@
-extern void ArraysExample();
+extern void StringsExample();
 
 int main()
 {
-	ArraysExample();
+	StringsExample();
 
 	return 0;
 }
