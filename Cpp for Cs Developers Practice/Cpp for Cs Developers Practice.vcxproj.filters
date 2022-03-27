@@ -30,6 +30,12 @@
     <ClCompile Include="Pointers\pointers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Arrays\arrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Strings\strings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />

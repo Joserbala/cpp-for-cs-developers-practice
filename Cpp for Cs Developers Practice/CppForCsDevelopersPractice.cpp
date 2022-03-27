@@ -1,8 +1,8 @@
-extern void PointersMultipleLevelsOfIndirection();
+extern void ArraysExample();
 
 int main()
 {
-	PointersMultipleLevelsOfIndirection();
+	ArraysExample();
 
 	return 0;
 }

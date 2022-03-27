@@ -140,10 +140,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Arrays\arrays.cpp" />
     <ClCompile Include="CppForCsDevelopersPractice.cpp" />
     <ClCompile Include="Maths\math.cpp" />
     <ClCompile Include="Maths\vector.cpp" />
     <ClCompile Include="Pointers\pointers.cpp" />
+    <ClCompile Include="Strings\strings.cpp" />
     <ClCompile Include="User\user.cpp" />
   </ItemGroup>
   <ItemGroup>
