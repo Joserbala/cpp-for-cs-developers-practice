@@ -146,6 +146,7 @@
     <ClCompile Include="Maths\vector.cpp" />
     <ClCompile Include="Pointers\pointers.cpp" />
     <ClCompile Include="Strings\strings.cpp" />
+    <ClCompile Include="StructsAndClasses\Player.cpp" />
     <ClCompile Include="User\user.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -154,6 +155,7 @@
   <ItemGroup>
     <ClInclude Include="Maths\math.hpp" />
     <ClInclude Include="Maths\vector.hpp" />
+    <ClInclude Include="StructsAndClasses\Player.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -36,6 +36,9 @@
     <ClCompile Include="Strings\strings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StructsAndClasses\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -45,6 +48,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Maths\vector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StructsAndClasses\Player.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
