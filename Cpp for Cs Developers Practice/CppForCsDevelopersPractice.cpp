@@ -1,6 +1,8 @@
-#include <iostream>
+extern void PointersMultipleLevelsOfIndirection();
 
 int main()
 {
-	std::cout << "Hello World!\n";
+	PointersMultipleLevelsOfIndirection();
+
+	return 0;
 }
