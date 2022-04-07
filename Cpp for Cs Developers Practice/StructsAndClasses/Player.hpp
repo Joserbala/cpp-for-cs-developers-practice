@@ -4,9 +4,11 @@
 
 struct Player
 {
-	std::int32_t Score;
+	std::int32_t Score{ 0 };
 	static std::int32_t HighScore;
 	const static std::int32_t MaxHealth = 100;
-};
 
-int32_t Player::HighScore = 0;
+	Player();
+
+	explicit Player(int score);
+};
