@@ -5,7 +5,7 @@
 struct Player
 {
 	std::int32_t Score{ 0 };
-	static std::int32_t HighScore;
+	inline static std::int32_t HighScore = 0;
 	const static std::int32_t MaxHealth = 100;
 
 	Player();
