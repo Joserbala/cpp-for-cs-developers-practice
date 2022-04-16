@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="Arrays\arrays.cpp" />
     <ClCompile Include="CppForCsDevelopersPractice.cpp" />
+    <ClCompile Include="StructsAndClasses\Flags.cpp" />
     <ClCompile Include="Maths\math.cpp" />
     <ClCompile Include="Maths\vector.cpp" />
     <ClCompile Include="Pointers\pointers.cpp" />
@@ -153,6 +154,7 @@
     <None Include=".editorconfig" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="StructsAndClasses\Flags.hpp" />
     <ClInclude Include="Maths\math.hpp" />
     <ClInclude Include="Maths\vector.hpp" />
     <ClInclude Include="StructsAndClasses\Player.hpp" />
