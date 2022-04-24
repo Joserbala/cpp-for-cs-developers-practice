@@ -2,11 +2,15 @@
 #include <memory>
 #include <iostream>
 
+int GetPlayerScore(Player const& player) {
+	return player.Score;
+}
+
 int main()
 {
 	std::unique_ptr<Player> pPlayer{ std::make_unique<Player>(8) };
 
-	std::cout << pPlayer->Score << '\n';
+	std::cout << GetPlayerScore(*pPlayer) << '\n';
 
 	return 0;
 }
