@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="Arrays\arrays.cpp" />
     <ClCompile Include="CppForCsDevelopersPractice.cpp" />
+    <ClCompile Include="Lambdas\LambdaExamples.cpp" />
     <ClCompile Include="StructsAndClasses\Flags.cpp" />
     <ClCompile Include="Maths\math.cpp" />
     <ClCompile Include="Maths\vector.cpp" />

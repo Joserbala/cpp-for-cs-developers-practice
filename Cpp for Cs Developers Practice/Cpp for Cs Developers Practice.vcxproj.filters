@@ -42,6 +42,9 @@
     <ClCompile Include="StructsAndClasses\Flags.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lambdas\LambdaExamples.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
